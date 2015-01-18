@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.ciandt.cursoandroid.worldwondersapp.activity.MainActivity" >
+
+    <item android:id="@+id/main_menu_logout"
+        android:title="@string/main_menu_lougout"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/main_menu_rate"
+        android:title="@string/main_menu_rate"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_rate"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/main_menu_about"
+        android:title="@string/main_menu_about"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_about"
+        app:showAsAction="ifRoom" />
+</menu>

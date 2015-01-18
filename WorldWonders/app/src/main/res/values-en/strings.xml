@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">World Wonders</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_senha">Password</string>
+    <string name="login_entrar">Enter</string>
+    <string name="login_registrar">Register</string>
+    <string name="login_validacao">Login unavaliable!</string>
+    <string name="erro_validacao">Required Field!</string>
+    <string name="erro_validacao_senha">Passwords not matching!</string>
+    <string name="title_activity_register">New Registration</string>
+    <string name="register_enviar">Send</string>
+    <string name="register_nome">Name</string>
+    <string name="register_email">E-mail</string>
+    <string name="register_senha">Password</string>
+    <string name="register_confirmacao_senha">Confirmation</string>
+    <string name="register_pais">Country</string>
+    <string name="register_idioma">Language</string>
+    <string name="register_sexo">Sex</string>
+    <string name="register_sexo_masculino">Masculine</string>
+    <string name="register_sexo_feminino">Female</string>
+    <string name="register_notificacoes">Notifications</string>
+    <string name="register_cancelado">Register cancelled!</string>
+
+
+    <!-- MainActivy & Menu-->
+    <string name="main_menu_lougout">Logout</string>
+    <string name="main_menu_rate">Rate</string>
+    <string name="main_menu_about">About</string>
+    <string name="title_activity_main">World Wonders</string>
+    <string name="fragment_place_detail_no_item">No item selected!</string>
+
+
+    <string name="no_connection_msg">No connection with the internet!</string>
+
+    <string name="dlg_confirmation_title">Synchronizer</string>
+    <string name="dlg_confirmation_message">Would you like to sync the data from sever?</string>
+    <string name="dlg_confirmation_button_ok">Ok</string>
+    <string name="dlg_confirmation_button_cancel">Cancel</string>
+
+</resources>

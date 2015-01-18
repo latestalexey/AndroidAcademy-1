@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="view_margin">50dp</dimen>
+    <dimen name="main_feed_item_margin">10dp</dimen>
+</resources>

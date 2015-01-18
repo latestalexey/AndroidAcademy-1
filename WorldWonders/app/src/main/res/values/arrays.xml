@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_country">
+        <item>Brasil</item>
+        <item>Canadá</item>
+        <item>China</item>
+    </string-array>
+
+    <string-array name="array_language_br">
+        <item>Português</item>
+    </string-array>
+
+    <string-array name="array_language_ca">
+        <item>Inglês</item>
+        <item>Francês</item>
+    </string-array>
+
+    <string-array name="array_language_ch">
+        <item>Mandarin</item>
+        <item>Cantonês</item>
+        <item>Mongol</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Create</item>
+        <item>Read</item>
+        <item>Help</item>
+    </string-array>
+
+</resources>

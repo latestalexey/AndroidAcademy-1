@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">World Wonders</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="login_registrar">Fazer Cadastro</string>
+    <string name="login_validacao">Login inválido!</string>
+    <string name="erro_validacao">Campo obrigatório!</string>
+    <string name="erro_validacao_senha">Senhas não conferem!</string>
+    <string name="title_activity_register">Novo Cadastro</string>
+    <string name="register_enviar">Enviar</string>
+    <string name="register_nome">Nome</string>
+    <string name="register_email">E-mail</string>
+    <string name="register_senha">Senha</string>
+    <string name="register_confirmacao_senha">Confirmação</string>
+    <string name="register_pais">País</string>
+    <string name="register_idioma">Idioma</string>
+    <string name="register_sexo">Sexo</string>
+    <string name="register_sexo_masculino">Masculino</string>
+    <string name="register_sexo_feminino">Feminino</string>
+    <string name="register_notificacoes">Notificações</string>
+    <string name="register_cancelado">Cadastro Cancelado!</string>
+
+    <!-- MainActivy & Menu -->
+    <string name="main_menu_lougout">Logout</string>
+    <string name="main_menu_rate">Rate</string>
+    <string name="main_menu_about">About</string>
+    <string name="title_activity_main">World Wonders</string>
+
+    <!-- Item do ListView -->
+    <string name="item_list_name">Nome da Maravilha do Mundo</string>
+    <string name="item_list_country">Peru</string>
+    <string name="item_list_description">Machu Picchu (in hispanicized spelling, Spanish pronunciation:
+        [ˈmatʃu ˈpiktʃu]) or Machu Pikchu (Quechua machu old, old person, pikchu peak; mountain or prominence
+        with a broad base which ends in sharp peaks,[1] "old peak", pronunciation [ˈmɑtʃu ˈpixtʃu])
+        is a 15th-century Inca site located 2,430 metres (7,970 ft) above sea level.[2][3] It is located
+        in the Cusco Region, Urubamba Province, Machupicchu District in Peru.[4] It is situated on
+        a mountain ridge above the Sacred Valley which is 80 kilometres (50 mi) northwest of Cusco
+        and through which the Urubamba River flows. Most archaeologists believe that Machu Picchu was built
+        as an estate for the Inca emperor Pachacuti (1438–1472). Often mistakenly referred to as the
+        "Lost City of the Incas", it is the most familiar icon of Inca civilization.</string>
+
+    <!-- About Activity -->
+    <string name="title_activity_about">About Activity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_place_detail">PlaceDetailActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_place_detail_no_item">Nenhum item selecionado!</string>
+
+    <string name="no_connection_msg">Sem conexão com a internet!</string>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="dlg_confirmation_title">Sincronizar</string>
+    <string name="dlg_confirmation_message">Gostaria de sincronizar os dados do servidor?</string>
+    <string name="dlg_confirmation_button_ok">Sim</string>
+    <string name="dlg_confirmation_button_cancel">Cancelar</string>
+    <string name="notification_content_title">WorldWonders</string>
+    <string name="notification_content_text">synced items</string>
+
+</resources>
