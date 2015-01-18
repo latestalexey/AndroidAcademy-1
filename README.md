@@ -4,10 +4,10 @@ Android course offered by CI&amp;T
 
 This project helped us to learn the best pratices and methodologies of Android Software Engineering.
 
-## Course´s content
+## Content
 - Activity
 - Fragment
-- Layout (Portrait - LandScape)
+- Layout
 - Adapter
 - AsyncTask
 - Service
